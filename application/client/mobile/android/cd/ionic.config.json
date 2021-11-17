@@ -1,0 +1,7 @@
+{
+  "name": "cd",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
